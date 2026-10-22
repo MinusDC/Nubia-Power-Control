@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Power Control</string>
+    <string name="accessibility_service_description">Dịch vụ này chỉ mở menu nguồn hệ thống khi bạn nhấn nút trong Power Control. Ứng dụng không đọc nội dung màn hình và không tự chọn tắt máy hoặc khởi động lại.</string>
+</resources>
